@@ -1,0 +1,62 @@
+[
+  {
+    "id": "s01_pain_drawer",
+    "angle": "pain",
+    "script": "I have a drawer that is just single socks. Like, a whole drawer.\nEvery laundry day, one goes in, and only one comes out.\nThen my friend showed me these. There's a tiny magnet in the cuff.\nYou take them off, click them together, toss them in the wash.\nThey come out of the dryer still clicked. Every single time.\nI haven't matched a sock in two months.\nYou get five pairs for $29, then new ones every three months.\nTake the quiz, pick your size, done."
+  },
+  {
+    "id": "s02_ugc_skeptic",
+    "angle": "ugc_confession",
+    "script": "I genuinely thought magnetic socks were the dumbest thing I'd ever seen.\nThen I tried them. And I'm annoyed at how much I like them.\nThe magnet's in the cuff, you can't even feel it.\nClick them together before the wash and they stay a pair.\nNo more sock orphanage on my dresser.\nThey're actually comfy, too.\nFirst box is five pairs for $29. Quick quiz to get your size."
+  },
+  {
+    "id": "s03_parent_chaos",
+    "angle": "callout",
+    "script": "If you have kids, you know laundry is basically a sock massacre.\nThree kids, fifteen tiny socks, zero matches.\nI switched the whole family to SockLock.\nEvery pair has a magnet in the cuff, so the kids click them together when they take them off.\nFolding laundry went from forty minutes to ten.\nFive pairs for $29 to start, new pairs every quarter as they grow.\nTake the quiz and pick sizes for everyone."
+  },
+  {
+    "id": "s04_demo_click",
+    "angle": "demo",
+    "script": "Listen. [click]\nThat's the sound of never losing a sock again.\nSockLock hides a small magnet in each cuff.\nClick, wash, dry, still a pair.\nI threw them in with towels, jeans, everything. Still together.\nFive pairs for $29, then a fresh drop every three months.\nTake the 30-second quiz to get your size."
+  },
+  {
+    "id": "s05_humor_dryer",
+    "angle": "humor",
+    "script": "My dryer has been running a sock smuggling operation for years.\nI finally caught it. Well, I stopped it.\nThese socks have magnets in the cuffs. They click together and the dryer just can't split them.\nThe dryer is furious. I am thriving.\nFive pairs for $29, and new ones show up every quarter.\nTake the quiz, find your size, end the crime."
+  },
+  {
+    "id": "s06_problem_agitate",
+    "angle": "pain",
+    "script": "You spend money on nice socks. Then the washer eats one.\nNow you have half a pair of nice socks, which is zero pairs of nice socks.\nIt happens again. And again.\nSockLock socks have a magnet in each cuff, so the pair stays together through the wash.\nYou stop buying replacements because nothing goes missing.\nFirst box: five pairs, $29. Then a new box every three months.\nQuiz takes a minute."
+  },
+  {
+    "id": "s07_gift",
+    "angle": "gift",
+    "script": "Stuck on a gift for the person who has everything?\nThey definitely don't have socks that refuse to get lost.\nSockLock socks have a tiny magnet in each cuff. Click them together, wash, and they come out as a pair.\nIt's weird enough to be fun and useful enough that they'll actually use it.\nFive pairs for $29 and a new box every quarter.\nTake the quiz with their size."
+  },
+  {
+    "id": "s08_roommates",
+    "angle": "callout",
+    "script": "Living with roommates means shared laundry, and shared laundry means stolen socks.\nNot stolen. Lost. Probably.\nAnyway, now my socks click together with a little magnet in the cuff.\nThey come out of the machine as a pair, so I know exactly which ones are mine.\nNo more sock disputes in the group chat.\nFive pairs for $29 to start, new ones every three months.\nQuiz is quick."
+  },
+  {
+    "id": "s09_before_after",
+    "angle": "before_after",
+    "script": "Before: Sunday night, a mountain of laundry, and a half-hour sock-matching session.\nAfter: I dump the basket and every pair is already together.\nThe trick is a little magnet in each cuff. You click them when you take them off.\nThat's it. That's the whole system.\nFive pairs for $29, new pairs every quarter.\nTake the quiz and get your size."
+  },
+  {
+    "id": "s10_contrarian",
+    "angle": "contrarian",
+    "script": "Stop buying more socks. Seriously.\nYou don't have a sock problem, you have a pairing problem.\nBuying a 12-pack just gives the washer more to eat.\nSockLock socks click together with a magnet in the cuff, so pairs stay pairs.\nI own fewer socks now and I always have a match.\nFive pairs for $29, then a new box every three months.\nThe quiz picks your size."
+  },
+  {
+    "id": "s11_question_morning",
+    "angle": "question",
+    "script": "Ever been late because you couldn't find a matching sock?\nThat was me. Every. Morning.\nNow I grab a pair and it's already together, because each cuff has a tiny magnet.\nClick them before the wash, pull them out still paired.\nMy mornings are five minutes shorter and way less annoying.\nFive pairs for $29, new ones every quarter.\nTake the quiz to get started."
+  },
+  {
+    "id": "s12_curiosity_magnet",
+    "angle": "curiosity",
+    "script": "There's something hidden in these socks.\nIt's a magnet. Right in the cuff.\nWhy? Because the washing machine has been splitting up pairs for your entire life.\nWith SockLock you click the pair together, wash, and it stays together.\nYou can't feel the magnet when you wear them.\nFive pairs for $29, and a new box every three months.\nTake the quiz to find your size."
+  }
+]
