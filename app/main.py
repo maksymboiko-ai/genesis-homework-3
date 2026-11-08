@@ -77,7 +77,7 @@ def api_generate(req: GenerateRequest):
             if os.getenv("MOCK_LLM") == "1":
                 break
     if res is None:
-        raise HTTPException(502, " / ".join(errors))
+        raise HTTPException(502, " / ".join(dict.fromkeys(errors)))  # same error from both models -> show once
     checks = run_checks(res.generation, req.n_variants, script)
     variants = [v.model_dump() | {"issues": issues}
                 for v, issues in zip(res.generation.variants, checks["variant_issues"])]
