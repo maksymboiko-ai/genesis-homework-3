@@ -1,0 +1,24 @@
+# Assignment brief — not part of the repo
+*.pdf
+
+# Working docs (homework write-up, milestones) — kept local only
+notes/
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
